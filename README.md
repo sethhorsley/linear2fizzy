@@ -17,7 +17,7 @@ Migrate Linear issues to Fizzy cards with full metadata, labels, and comment his
 Download and make executable:
 
 ```bash
-curl -O https://raw.githubusercontent.com/robzolkos/linear2fizzy/main/linear2fizzy
+curl -O https://raw.githubusercontent.com/robzolkos/linear2fizzy/master/linear2fizzy
 chmod +x linear2fizzy
 mv linear2fizzy /usr/local/bin/
 ```
